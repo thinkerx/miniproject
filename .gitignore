@@ -1,5 +1,7 @@
 # Ignores all files ending with extension: .log
 *.log
+#coconut/log/*
+#coconut/log/development.log
 
 # Ignores all directories named: nbproject
 nbproject
